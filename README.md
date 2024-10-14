@@ -20,6 +20,8 @@ The goal of this project is to use PMI to examine how noun phrases in reviews co
 - **Python**: Employed for text data processing, sentiment classification, and PMI calculation.
 
 ![image](https://github.com/user-attachments/assets/02e2f503-087a-4880-8651-784af2964719)
+![image](https://github.com/user-attachments/assets/3411ad72-b3ea-4ee0-88bd-7d1924246069)
+
 
 ## Project Structure
 
